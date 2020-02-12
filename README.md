@@ -14,18 +14,8 @@ Numpy
 OpenCV (cv2)
 Matplolib
 OS
-## Method
-For the training set each image had to be processed so it was it a format we could use for the model. So any non JPG or PNG files were removed. Then using cv2 the images were processed.
-### Data Processing
-Using
-### Compiling
-### Testing 
-### Evaluating the model
 
-### Webscraper
-
-### Result
-
-# Improvements
+## Training model accuracy of 97% but model has accuracy of 69%
+# Possible Improvements
 Increase the size of the training set to include more images for each to further train the model.
 Possibly expand to include the Generation 2 and onwards pokemon.
