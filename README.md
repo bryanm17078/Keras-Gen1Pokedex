@@ -7,13 +7,14 @@ Kaggle dataset of only generation 1 pokemon (1-150) with each pokemon having at 
 The official pokemon site to retrieve the pokemon information of the identified pokemon.
 
 ## Environment
-Python 3
-Tensorflow 2
-Keras
-Numpy
-OpenCV (cv2)
-Matplolib
-OS
+Python 3  
+Tensorflow 2  
+Keras  
+Numpy  
+OpenCV (cv2)    
+Matplotlib  
+OS  
+BeautifulSoup
 
 ## Training model accuracy of 97% but model has accuracy of 69%
 # Possible Improvements
