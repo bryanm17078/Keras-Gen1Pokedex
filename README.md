@@ -16,7 +16,7 @@ Matplotlib
 OS  
 BeautifulSoup
 
-## Training model accuracy of 97% but model has accuracy of 69%
+## Training model accuracy of 97% but model has accuracy of 71%
 # Possible Improvements
 Increase the size of the training set to include more images for each to further train the model.
 Possibly expand to include the Generation 2 and onwards pokemon.
